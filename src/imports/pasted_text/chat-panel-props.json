@@ -1,0 +1,568 @@
+ChatPanel ProfileAvatar props: {
+  "currentUserRole": "brand",
+  "otherUserId": "4",
+  "otherUserType": "influencer",
+  "requestId": "2",
+  "fullRequest": {
+    "id": "2",
+    "brandName": "FitLife Pro",
+    "brandLogo": "FL",
+    "brandPhoto": "https://images.unsplash.com/photo-1687041568037-dab13851ea14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzcG9ydHMlMjBmaXRuZXNzJTIwZ3ltJTIwbnV0cml0aW9uJTIwYnJhbmR8ZW58MXx8fHwxNzczMTQ1OTAwfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "brandId": "brand2",
+    "influencerName": "Rahul Kapoor",
+    "influencerPhoto": "https://images.unsplash.com/photo-1724627559656-9652a42c7e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMHlvdW5nJTIwbWFuJTIwcGhvdG9ncmFwaGVyfGVufDF8fHx8MTc3MDk3MjY1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "campaignName": "Protein Shake Campaign",
+    "budget": 35000,
+    "timeline": "Mar 15 - Apr 15, 2026",
+    "status": "accepted",
+    "deliverables": "2 Instagram Posts, 1 Reel, 3 Stories",
+    "message": "Your fitness content is amazing. We'd love to collaborate on our new protein shake line.",
+    "contactEmail": "rahul@email.com",
+    "contactPhone": "+91 98765 43213",
+    "brandContactEmail": "marketing@fitlifepro.com",
+    "brandContactPhone": "+91 98765 00001",
+    "contactShareStatus": "shared",
+    "negotiationRound": 0,
+    "influencerId": "4",
+    "sentDate": "Feb 8, 2026",
+    "sentAt": "2026-02-08T09:00:00.000Z",
+    "respondedAt": "2026-02-08T13:15:00.000Z",
+    "chatMessages": [
+      {
+        "id": "cm1",
+        "senderId": "brand2",
+        "senderRole": "brand",
+        "senderName": "FitLife Pro",
+        "text": "Hi Rahul! Thanks so much for accepting 🙌 Really excited to work with you on the Protein Shake Campaign. When can we hop on a quick call to run through the brief?",
+        "timestamp": "2026-02-09T09:15:00.000Z"
+      },
+      {
+        "id": "cm2",
+        "senderId": "4",
+        "senderRole": "influencer",
+        "senderName": "Rahul Kapoor",
+        "text": "Hey! Super excited too 💪 I'm free Thursday or Friday afternoon this week. What time zone works for you?",
+        "timestamp": "2026-02-09T09:42:00.000Z"
+      },
+      {
+        "id": "cm3",
+        "senderId": "brand2",
+        "senderRole": "brand",
+        "senderName": "FitLife Pro",
+        "text": "Thursday 3pm IST works perfectly! I'll send a calendar invite. Rough concept: we'd love a pre-workout routine + post-workout shake reveal — very authentic, your style.",
+        "timestamp": "2026-02-09T10:05:00.000Z"
+      },
+      {
+        "id": "cm4",
+        "senderId": "4",
+        "senderRole": "influencer",
+        "senderName": "Rahul Kapoor",
+        "text": "Love that concept! Should I use your branding guidelines or can I freestyle the visual aesthetic to match my feed?",
+        "timestamp": "2026-02-09T10:30:00.000Z"
+      },
+      {
+        "id": "cm5",
+        "senderId": "brand2",
+        "senderRole": "brand",
+        "senderName": "FitLife Pro",
+        "text": "Freestyle it — we trust your creative direction completely. Just keep our logo visible in the shake shot. I'll share the brand kit and product photos today.",
+        "timestamp": "2026-02-09T11:00:00.000Z"
+      },
+      {
+        "id": "cm6",
+        "senderId": "4",
+        "senderRole": "influencer",
+        "senderName": "Rahul Kapoor",
+        "text": "Perfect! Got the brand kit. I'm thinking outdoor gym setting at sunrise — really cinematic. Will draft a shot list before Thursday's call.",
+        "timestamp": "2026-02-10T08:20:00.000Z"
+      }
+    ]
+  }
+}
+ProfileModal loading: {
+  "userId": "4",
+  "userType": "influencer",
+  "requestId": "2"
+}
+All influencers: [
+  {
+    "id": "1",
+    "name": "Priya Sharma"
+  },
+  {
+    "id": "2",
+    "name": "Arjun Mehta"
+  },
+  {
+    "id": "3",
+    "name": "Sneha Patel"
+  },
+  {
+    "id": "4",
+    "name": "Rahul Kapoor"
+  },
+  {
+    "id": "5",
+    "name": "Ananya Reddy"
+  },
+  {
+    "id": "6",
+    "name": "Vikram Singh"
+  }
+]
+Looking for influencer with ID: 4 Type: string
+[vite] hot updated: /src/app/components/ProfileModal.tsx
+[vite] hot updated: /src/styles/index.css
+9:22:40 AM [vite] (client) hmr update /src/app/components/ChatPanel.tsx, /src/styles/index.css
+9:22:40 AM [vite] (client) hmr update /src/app/components/ProfileModal.tsx, /src/styles/index.css
+2
+ChatPanel ProfileAvatar props: {
+  "currentUserRole": "brand",
+  "otherUserId": "4",
+  "otherUserType": "influencer",
+  "requestId": "2",
+  "fullRequest": {
+    "id": "2",
+    "brandName": "FitLife Pro",
+    "brandLogo": "FL",
+    "brandPhoto": "https://images.unsplash.com/photo-1687041568037-dab13851ea14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzcG9ydHMlMjBmaXRuZXNzJTIwZ3ltJTIwbnV0cml0aW9uJTIwYnJhbmR8ZW58MXx8fHwxNzczMTQ1OTAwfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "brandId": "brand2",
+    "influencerName": "Rahul Kapoor",
+    "influencerPhoto": "https://images.unsplash.com/photo-1724627559656-9652a42c7e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMHlvdW5nJTIwbWFuJTIwcGhvdG9ncmFwaGVyfGVufDF8fHx8MTc3MDk3MjY1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "campaignName": "Protein Shake Campaign",
+    "budget": 35000,
+    "timeline": "Mar 15 - Apr 15, 2026",
+    "status": "accepted",
+    "deliverables": "2 Instagram Posts, 1 Reel, 3 Stories",
+    "message": "Your fitness content is amazing. We'd love to collaborate on our new protein shake line.",
+    "contactEmail": "rahul@email.com",
+    "contactPhone": "+91 98765 43213",
+    "brandContactEmail": "marketing@fitlifepro.com",
+    "brandContactPhone": "+91 98765 00001",
+    "contactShareStatus": "shared",
+    "negotiationRound": 0,
+    "influencerId": "4",
+    "sentDate": "Feb 8, 2026",
+    "sentAt": "2026-02-08T09:00:00.000Z",
+    "respondedAt": "2026-02-08T13:15:00.000Z",
+    "chatMessages": [
+      {
+        "id": "cm1",
+        "senderId": "brand2",
+        "senderRole": "brand",
+        "senderName": "FitLife Pro",
+        "text": "Hi Rahul! Thanks so much for accepting 🙌 Really excited to work with you on the Protein Shake Campaign. When can we hop on a quick call to run through the brief?",
+        "timestamp": "2026-02-09T09:15:00.000Z"
+      },
+      {
+        "id": "cm2",
+        "senderId": "4",
+        "senderRole": "influencer",
+        "senderName": "Rahul Kapoor",
+        "text": "Hey! Super excited too 💪 I'm free Thursday or Friday afternoon this week. What time zone works for you?",
+        "timestamp": "2026-02-09T09:42:00.000Z"
+      },
+      {
+        "id": "cm3",
+        "senderId": "brand2",
+        "senderRole": "brand",
+        "senderName": "FitLife Pro",
+        "text": "Thursday 3pm IST works perfectly! I'll send a calendar invite. Rough concept: we'd love a pre-workout routine + post-workout shake reveal — very authentic, your style.",
+        "timestamp": "2026-02-09T10:05:00.000Z"
+      },
+      {
+        "id": "cm4",
+        "senderId": "4",
+        "senderRole": "influencer",
+        "senderName": "Rahul Kapoor",
+        "text": "Love that concept! Should I use your branding guidelines or can I freestyle the visual aesthetic to match my feed?",
+        "timestamp": "2026-02-09T10:30:00.000Z"
+      },
+      {
+        "id": "cm5",
+        "senderId": "brand2",
+        "senderRole": "brand",
+        "senderName": "FitLife Pro",
+        "text": "Freestyle it — we trust your creative direction completely. Just keep our logo visible in the shake shot. I'll share the brand kit and product photos today.",
+        "timestamp": "2026-02-09T11:00:00.000Z"
+      },
+      {
+        "id": "cm6",
+        "senderId": "4",
+        "senderRole": "influencer",
+        "senderName": "Rahul Kapoor",
+        "text": "Perfect! Got the brand kit. I'm thinking outdoor gym setting at sunrise — really cinematic. Will draft a shot list before Thursday's call.",
+        "timestamp": "2026-02-10T08:20:00.000Z"
+      }
+    ]
+  }
+}
+⚠️ Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s 2 
+    at div
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at div
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at div
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at div
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at BrandChats (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/src/app/pages/brand/Chats.tsx?t=1773219790228:77:24)
+    at RenderedRoute (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:6296:26)
+    at Outlet (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:7077:26)
+    at main
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at div
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at div
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at DashboardLayout (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/src/app/components/DashboardLayout.tsx:596:43)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at BrandLayout
+    at RenderedRoute (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:6296:26)
+    at Outlet (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:7077:26)
+    at RootLayout
+    at RenderedRoute (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:6296:26)
+    at RenderErrorBoundary (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:6206:5)
+    at DataRoutes (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:6994:3)
+    at Router (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:7086:13)
+    at RouterProvider (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:6760:3)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at FooterProvider (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/src/app/context/FooterContext.tsx:147:34)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at SiteSettingsProvider (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/src/app/context/SiteSettingsContext.tsx:52:40)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at CollaborationProvider (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/src/app/context/CollaborationContext.tsx:23:41)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at StatisticsProvider (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/src/app/context/StatisticsContext.tsx:38:38)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at AuthProvider (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/src/app/context/AuthContext.tsx:33:32)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at App
+    at sm (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:55:4420)
+    at O (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:570:13251)
+    at rr (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:624:13959)
+    at bZ (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:641:10311)
+    at div
+    at sC (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:55:13985)
+    at T0 (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:631:233497)
+    at yA (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:631:244621)
+    at oX (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:40:152373)
+    at hi (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:434:8433)
+ChatPanel ProfileAvatar props: {
+  "currentUserRole": "brand",
+  "otherUserId": "4",
+  "otherUserType": "influencer",
+  "requestId": "2",
+  "fullRequest": {
+    "id": "2",
+    "brandName": "FitLife Pro",
+    "brandLogo": "FL",
+    "brandPhoto": "https://images.unsplash.com/photo-1687041568037-dab13851ea14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzcG9ydHMlMjBmaXRuZXNzJTIwZ3ltJTIwbnV0cml0aW9uJTIwYnJhbmR8ZW58MXx8fHwxNzczMTQ1OTAwfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "brandId": "brand2",
+    "influencerName": "Rahul Kapoor",
+    "influencerPhoto": "https://images.unsplash.com/photo-1724627559656-9652a42c7e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMHlvdW5nJTIwbWFuJTIwcGhvdG9ncmFwaGVyfGVufDF8fHx8MTc3MDk3MjY1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "campaignName": "Protein Shake Campaign",
+    "budget": 35000,
+    "timeline": "Mar 15 - Apr 15, 2026",
+    "status": "accepted",
+    "deliverables": "2 Instagram Posts, 1 Reel, 3 Stories",
+    "message": "Your fitness content is amazing. We'd love to collaborate on our new protein shake line.",
+    "contactEmail": "rahul@email.com",
+    "contactPhone": "+91 98765 43213",
+    "brandContactEmail": "marketing@fitlifepro.com",
+    "brandContactPhone": "+91 98765 00001",
+    "contactShareStatus": "shared",
+    "negotiationRound": 0,
+    "influencerId": "4",
+    "sentDate": "Feb 8, 2026",
+    "sentAt": "2026-02-08T09:00:00.000Z",
+    "respondedAt": "2026-02-08T13:15:00.000Z",
+    "chatMessages": [
+      {
+        "id": "cm1",
+        "senderId": "brand2",
+        "senderRole": "brand",
+        "senderName": "FitLife Pro",
+        "text": "Hi Rahul! Thanks so much for accepting 🙌 Really excited to work with you on the Protein Shake Campaign. When can we hop on a quick call to run through the brief?",
+        "timestamp": "2026-02-09T09:15:00.000Z"
+      },
+      {
+        "id": "cm2",
+        "senderId": "4",
+        "senderRole": "influencer",
+        "senderName": "Rahul Kapoor",
+        "text": "Hey! Super excited too 💪 I'm free Thursday or Friday afternoon this week. What time zone works for you?",
+        "timestamp": "2026-02-09T09:42:00.000Z"
+      },
+      {
+        "id": "cm3",
+        "senderId": "brand2",
+        "senderRole": "brand",
+        "senderName": "FitLife Pro",
+        "text": "Thursday 3pm IST works perfectly! I'll send a calendar invite. Rough concept: we'd love a pre-workout routine + post-workout shake reveal — very authentic, your style.",
+        "timestamp": "2026-02-09T10:05:00.000Z"
+      },
+      {
+        "id": "cm4",
+        "senderId": "4",
+        "senderRole": "influencer",
+        "senderName": "Rahul Kapoor",
+        "text": "Love that concept! Should I use your branding guidelines or can I freestyle the visual aesthetic to match my feed?",
+        "timestamp": "2026-02-09T10:30:00.000Z"
+      },
+      {
+        "id": "cm5",
+        "senderId": "brand2",
+        "senderRole": "brand",
+        "senderName": "FitLife Pro",
+        "text": "Freestyle it — we trust your creative direction completely. Just keep our logo visible in the shake shot. I'll share the brand kit and product photos today.",
+        "timestamp": "2026-02-09T11:00:00.000Z"
+      },
+      {
+        "id": "cm6",
+        "senderId": "4",
+        "senderRole": "influencer",
+        "senderName": "Rahul Kapoor",
+        "text": "Perfect! Got the brand kit. I'm thinking outdoor gym setting at sunrise — really cinematic. Will draft a shot list before Thursday's call.",
+        "timestamp": "2026-02-10T08:20:00.000Z"
+      }
+    ]
+  }
+}
+2
+⚠️ Warning: Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.%s 2 
+    at div
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at div
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at div
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at div
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at BrandChats (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/src/app/pages/brand/Chats.tsx?t=1773219790228:77:24)
+    at RenderedRoute (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:6296:26)
+    at Outlet (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:7077:26)
+    at main
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at div
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at div
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at DashboardLayout (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/src/app/components/DashboardLayout.tsx:596:43)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at BrandLayout
+    at RenderedRoute (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:6296:26)
+    at Outlet (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:7077:26)
+    at RootLayout
+    at RenderedRoute (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:6296:26)
+    at RenderErrorBoundary (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:6206:5)
+    at DataRoutes (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:6994:3)
+    at Router (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:7086:13)
+    at RouterProvider (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/node_modules/.vite/deps/react-router.js?v=c7acaa3b:6760:3)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at FooterProvider (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/src/app/context/FooterContext.tsx:147:34)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at SiteSettingsProvider (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/src/app/context/SiteSettingsContext.tsx:52:40)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at CollaborationProvider (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/src/app/context/CollaborationContext.tsx:23:41)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at StatisticsProvider (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/src/app/context/StatisticsContext.tsx:38:38)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at AuthProvider (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/src/app/context/AuthContext.tsx:33:32)
+    at https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:290:12506
+    at FGCmp (https://app-j363dp2zqrvgb2qgixgkf67td6l2xvb5bsu5i75wfjrlaprfduwq.makeproxy-c.figma.site/@id/fginspector:3:55)
+    at App
+    at sm (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:55:4420)
+    at O (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:570:13251)
+    at rr (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:624:13959)
+    at bZ (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:641:10311)
+    at div
+    at sC (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:55:13985)
+    at T0 (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:631:233497)
+    at yA (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:631:244621)
+    at oX (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:40:152373)
+    at hi (https://www.figma.com/webpack-artifacts/assets/code_components_preview_iframe-1e875785bc0d6c5a.min.js.br:434:8433)
+6
+ChatPanel ProfileAvatar props: {
+  "currentUserRole": "brand",
+  "otherUserId": "2",
+  "otherUserType": "influencer",
+  "requestId": "7",
+  "fullRequest": {
+    "id": "7",
+    "brandName": "ZenTech Gadgets",
+    "brandLogo": "ZT",
+    "brandPhoto": "https://images.unsplash.com/photo-1758467700789-d6f49099c884?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxnYWRnZXRzJTIwZWxlY3Ryb25pY3MlMjBicmFuZCUyMHByb2R1Y3R8ZW58MXx8fHwxNzczMTQ1ODk3fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "brandId": "brand6",
+    "influencerName": "Arjun Mehta",
+    "influencerPhoto": "https://images.unsplash.com/photo-1749793716288-a5ab5ed3b0e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBtYW4lMjBidXNpbmVzcyUyMHBvcnRyYWl0fGVufDF8fHx8MTc3MDg4MTk2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "campaignName": "SmartHome Pro Launch",
+    "budget": 42000,
+    "timeline": "Mar 12 - Mar 28, 2026",
+    "status": "accepted",
+    "deliverables": "1 YouTube Deep-Dive Review, 2 Instagram Reels, 3 Twitter Threads",
+    "message": "We're launching the SmartHome Pro ecosystem — a suite of connected home devices. Your honest, in-depth review style is exactly what we need to build trust with tech-savvy consumers.",
+    "influencerId": "2",
+    "sentDate": "Feb 16, 2026",
+    "sentAt": "2026-02-16T08:00:00.000Z",
+    "respondedAt": "2026-02-16T11:18:00.000Z",
+    "contactEmail": "arjun@email.com",
+    "contactPhone": "+91 98765 43211",
+    "brandContactEmail": "collab@zentechgadgets.in",
+    "brandContactPhone": "+91 80900 33341",
+    "contactShareStatus": "shared",
+    "negotiationRound": 1,
+    "acceptComment": "SmartHome Pro looks genuinely impressive. Happy to give it an honest review — my audience will love the setup walkthrough.",
+    "chatMessages": [
+      {
+        "id": "cm16",
+        "senderId": "brand6",
+        "senderRole": "brand",
+        "senderName": "ZenTech Gadgets",
+        "text": "Hey Arjun! Welcome aboard 🤝 We're sending the SmartHome Pro full kit — Hub, 4 smart bulbs, a mesh WiFi node, and the voice controller. Should arrive by Feb 22. Let us know once it lands!",
+        "timestamp": "2026-02-17T09:00:00.000Z"
+      },
+      {
+        "id": "cm17",
+        "senderId": "2",
+        "senderRole": "influencer",
+        "senderName": "Arjun Mehta",
+        "text": "Awesome, looking forward to unboxing it! Quick question — should I compare it against any specific competitors or keep the review standalone? I want to make sure the framing works for your brand positioning.",
+        "timestamp": "2026-02-17T09:35:00.000Z"
+      },
+      {
+        "id": "cm18",
+        "senderId": "brand6",
+        "senderRole": "brand",
+        "senderName": "ZenTech Gadgets",
+        "text": "Great question! Feel free to mention Philips Hue or Mi Smart in passing for context — our biggest strength is the unified app and local processing (no cloud dependency). That's the USP we really want highlighted.",
+        "timestamp": "2026-02-17T10:10:00.000Z"
+      },
+      {
+        "id": "cm19",
+        "senderId": "2",
+        "senderRole": "influencer",
+        "senderName": "Arjun Mehta",
+        "text": "Local processing is a huge deal — privacy-conscious users will love that angle. I'll dedicate a full section to it. Also planning a latency test vs cloud-dependent competitors. Should make for a really compelling segment 📊",
+        "timestamp": "2026-02-17T11:00:00.000Z",
+        "replyTo": {
+          "id": "cm18",
+          "senderName": "ZenTech Gadgets",
+          "text": "our biggest strength is the unified app and local processing (no cloud dependency). That's the USP we really want highlighted."
+        }
+      },
+      {
+        "id": "cm20",
+        "senderId": "brand6",
+        "senderRole": "brand",
+        "senderName": "ZenTech Gadgets",
+        "text": "That's exactly the kind of content we hoped for! One small ask — could you run the draft script by us before filming? Just to flag any spec inaccuracies. We promise not to change the tone or opinion, just facts.",
+        "timestamp": "2026-02-18T08:30:00.000Z"
+      },
+      {
+        "id": "cm21",
+        "senderId": "2",
+        "senderRole": "influencer",
+        "senderName": "Arjun Mehta",
+        "text": "Absolutely fair, I always appreciate that. Script will be ready by Feb 24. This is shaping up to be one of my most detailed smart home reviews — genuinely excited about the local processing angle. Let's make it great! 🚀",
+        "timestamp": "2026-02-18T09:15:00.000Z",
+        "replyTo": {
+          "id": "cm20",
+          "senderName": "ZenTech Gadgets",
+          "text": "could you run the draft script by us before filming? Just to flag any spec inaccuracies."
+        }
+      },
+      {
+        "id": "cm22",
+        "senderId": "2",
+        "senderRole": "influencer",
+        "senderName": "Arjun Mehta",
+        "text": "I'd like to request a budget update to ₹55,000 for this collaboration.",
+        "timestamp": "2026-02-19T10:00:00.000Z",
+        "type": "price_request",
+        "requestedAmount": 55000
+      }
+    ],
+    "pendingPriceRequest": {
+      "amount": 55000,
+      "requestedAt": "2026-02-19T10:00:00.000Z",
+      "status": "pending",
+      "messageId": "cm22"
+    }
+  }
+}
+ProfileModal loading: {
+  "userId": "2",
+  "userType": "influencer",
+  "requestId": "7"
+}
+All influencers: [
+  {
+    "id": "1",
+    "name": "Priya Sharma"
+  },
+  {
+    "id": "2",
+    "name": "Arjun Mehta"
+  },
+  {
+    "id": "3",
+    "name": "Sneha Patel"
+  },
+  {
+    "id": "4",
+    "name": "Rahul Kapoor"
+  },
+  {
+    "id": "5",
+    "name": "Ananya Reddy"
+  },
+  {
+    "id": "6",
+    "name": "Vikram Singh"
+  }
+]
+Looking for influencer with ID: 2 Type: string
